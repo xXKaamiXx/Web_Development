@@ -1,0 +1,41 @@
+DOCTYPE -> Helps display web pages correctly
+<title></title> -> To add the title of webpage page 
+<Head></Head> ->specific section provided to type title
+<h1></h1> ->dfefines the most important heading 
+<h6></h6> -> defines the least important heading
+<p></p> -> defines paragraph
+<a href="ENTER LINK">This is a link</a> -> Defines  hyperlink, href is used to provide additional imformation regarding the link provided
+<img src ="IMAGE" alt="ENTER TEXT" width="ENTER WIDTH" height="ENTER HEIGHT"> -> img defines image , src is source file, alt is alternative text, width;height is size of image.
+<html> -> root element,defines whole HTML document
+<body></body> -> defines the documents info.
+Absolute URL -> links to an external image that is hosted on another website.
+Relative URL ->links to image hosted within website
+<p style="color:red;">this is a red paragraph.</p>
+<html lang="en-Us"> -> declare the language(en) and country(US) of a website.
+<hr> -> it is used to seperate content in an HTML page.
+<br> -> defines line break.
+<pre> -> defines preformatted text.
+syntax for style attribute -> <tagname style="property:value;">
+<tagname style ="background-color:ENTER COLOR;">
+<tagname style="color:ENTER COLOR;">
+<tagname style="font-family:courier;"> -> enter font type.
+<tagname style="font-size:ENTER SIZE%;"> -> Enter font size.
+<tagname style="text-align:ENTER POSITION;"> -> enter text position.
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+<blockquote cite="eNTER LINK HERE"></blockquote> ->defines a section that is quoted from another source.
+<q></q> -> Defines short quotation
+<p><abbr title="ENTER TITLE HERE"</abbr/></p>
+<address>"ENTER ADDRESS HERE</address>
+<cite>The Scream</cite>
+body { 
+   background-color:ENTER COLOR:yellow;
+     } --> Used to enter background color of body
